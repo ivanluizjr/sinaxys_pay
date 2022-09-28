@@ -234,7 +234,7 @@ class _HomePageState extends State<HomePage> {
                     ),
                   ),
                 ),
-                const SizedBox(height: 40),
+                const SizedBox(height: 30),
                 AnimatedBuilder(
                   animation: controller,
                   builder: (BuildContext context, Widget? child) {
