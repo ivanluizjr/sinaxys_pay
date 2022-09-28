@@ -32,6 +32,8 @@ Este projeto foi um desafio para construir um app do zero, onde o objetivo era d
   
   - Procurei desenvolver algo agradável e de boa experiência ao usuário, pois temos somente duas telas, então aquilo que minha criatividade me direcionou, eu desenvolvi a mais.
   
+  - Link do APK do projeto para teste em aparelhos com sistema operacional Android: https://drive.google.com/file/d/1dBg2yO3uP8vv96kFIMzPDOea1nfM8eG6/view?usp=sharing
+  
 ##
 
  # :iphone: Layout do App
