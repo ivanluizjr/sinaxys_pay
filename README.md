@@ -4,8 +4,7 @@ Este projeto foi um desafio para construir um app do zero, onde o objetivo era d
 
 ## :heavy_check_mark: Telas do projeto e fluxo a seguir
 
-![image](https://user-images.githubusercontent.com/41458938/192682293-e4ff39ec-68a5-4747-ac2a-0823e2af341f.png)
-![image](https://user-images.githubusercontent.com/41458938/192682382-ab6f9e89-c878-4c29-9086-bbd62fb17a05.png)
+![image](https://github.com/ivanluizjr/sinaxys_pay/assets/41458938/a2043045-0378-4b80-90c2-6cfe9f74e56a)
   
 ## :computer: Tecnologias, APIs, Packages utilizados:
   
