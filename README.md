@@ -1,10 +1,6 @@
 # :shield: App SinaxysPay
 
 Este projeto foi um desafio para construir um app do zero, onde o objetivo era desenvolver duas telas propostas com navegação entre as duas.
-
-## :heavy_check_mark: Telas do projeto e fluxo a seguir
-
-![image](https://github.com/ivanluizjr/sinaxys_pay/assets/41458938/a2043045-0378-4b80-90c2-6cfe9f74e56a)
   
 ## :computer: Tecnologias, APIs, Packages utilizados:
   
